@@ -1,0 +1,14 @@
+.section-one { background-color: #FCEEF1;
+
+}
+div { display: flex;
+    
+      
+}
+.main-heading{ display: flex;
+               width: 708px;
+               flex-direction: column;
+               flex-shrink: 0;  
+}
+.flower1 { display: flex;
+}
