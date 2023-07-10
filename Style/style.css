@@ -1,3 +1,60 @@
+/* Common Shared Style */
+body {
+      font-family: 'Lato', sans-serif;
+}
+
+.text-primary {
+             color: #E55473;
+    
+}
+.btn-primary{
+  border-radius: 8px;
+  background: #E55473;
+  color: #FCEEF1;
+  border: 0;
+  font-size: 20px;
+  font-weight: 700;
+  padding: 20px 43px;
+}
+/* nav related style */
+nav {
+      display:flex;
+      justify-content:space-between;
+      align-items: center;
+      
+      
+}
+.nav-title {
+  color: #272727;
+  font-size: 45px;
+  font-weight: 900;
+}
+
+nav > ul{
+ display:flex;
+ align-items: center;
+}
+
+nav li{
+   list-style: none;
+   margin-right: 50px;
+}
+
+nav a{
+  text-decoration: none;
+   color: #272727;
+}
+
+
+
+
+
+
+
+
+
+
+
 .section-one { background-color: #FCEEF1;
 
 }
