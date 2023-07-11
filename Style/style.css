@@ -77,7 +77,8 @@ nav a {
 /* Main section style */
 
 
-/* Our Featured Flowers */
+/* Our Featured Flowers style*/
+
 .featured{
  padding: 130px;
 }
@@ -100,8 +101,28 @@ nav a {
  font-weight: 400;
  line-height: 30px;
 }
-.image-list{
- width: 464px;
- height: 538px;
- justify-content: space-between;
+.image-one{
+ border-radius: 300px 300px 0px 0px;
+ background: #F1DEE7;
+ size: 100px;
+ 
 }
+.image-two{
+     border-radius: 300px 300px 0px 0px;
+     background: #D8F0F1;
+     
+}
+.image-three{
+     border-radius: 300px 300px 0px 0px;
+     background: #E3EBDB;
+     
+}
+.image-section{
+  text-align: center;
+  width: 1920px;
+  height: 4867px;
+  margin-top: -50px;
+ 
+  
+}
+
